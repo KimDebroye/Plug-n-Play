@@ -48,6 +48,8 @@ Basically, when installation of the script is complete:
     - You won't see the script running
     - The script runs in the background at boot time
 ## Notes
-Feel free to test, improve the script (specific joypads?) and let me know about bugs/issues.
+- In order to hide the systems, a folder `_HIDDEN` is created at `\\\RETROPIE\roms`.
+Feel free to manually move systems you do not want to see into that folder and move them back whenever and if ever you do want to see them again.
+- Feel free to test, improve the script (specific joypads?) and let me know about bugs/issues.
 I can't follow up full time though. I'm hoping the community can improve this script where needed and gladly wanted to share it as is.
 Furthermore, feedback is always welcome.
