@@ -1,7 +1,7 @@
 # Plug'n'Play
 ## In short
 Plug'n'Play is
-- a RetroPie script
+- a RetroPie/EmulationStation script
 - for Raspberry Pi
   - tested on Model 3B,
   - untested on 3B+ or older models though it should work
